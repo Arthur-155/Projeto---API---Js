@@ -22,7 +22,8 @@ Barra Lateral 📌: Com atalhos para "Início", "Buscar" e "Sua Biblioteca".
 
 Pesquisa de Artistas (Simulada) 🔍: Campo de entrada para filtrar artistas visualmente.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ea10ff7b-b8ed-4793-ab10-8601a6861ae3)
+
 
 # Link Do Projeto Versão React:
 
