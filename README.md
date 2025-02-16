@@ -4,15 +4,11 @@ Projeto desenvolvido durante a Imersão Front-End da Alura. O objetivo principal
 
 # 🚀 Tecnologias Utilizadas
 
-JavaScript (ES6+) – Manipulação da lógica do aplicativo e criação da API.
-
-HTML5 – Estruturação do conteúdo da página.
-
-CSS3 – Estilização e responsividade da interface.
-
-FontAwesome – Ícones estilizados para navegação.
-
-Node.js - Manipulação do servidor.
+- **JavaScript (ES6+)**: Manipulação da lógica do aplicativo e criação da API.
+- **HTML5**: Estruturação do conteúdo da página.
+- **CSS3**: Estilização e responsividade da interface.
+- **FontAwesome**: Ícones estilizados para navegação.
+- **Node.js**: Manipulação do servidor.
 
 # 🎨 Funcionalidades
 
@@ -26,5 +22,4 @@ Pesquisa de Artistas (Simulada) 🔍: Campo de entrada para filtrar artistas vis
 
 
 # Link Do Projeto Versão React:
-https://transformando-js-react-bvp934fll-arthurs-projects-9de07c44.vercel.app
-
+[🔗 Acesse o Projeto Aqui](https://transformando-js-react-bvp934fll-arthurs-projects-9de07c44.vercel.app)
