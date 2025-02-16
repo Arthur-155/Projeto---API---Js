@@ -18,7 +18,7 @@ Projeto desenvolvido durante a Imersão Front-End da Alura. O objetivo principal
 
 ![Animação](https://github.com/user-attachments/assets/6439bf3f-960a-4600-bacf-856ab7faea23)
 
-🛠️ Como Usar o JSON Server para Visualizar a API
+## 🛠️ Como Usar o JSON Server para Visualizar a API
 - **Se você quiser ver a API funcionando localmente, siga os passos abaixo:
 - **Instale o JSON Server (caso ainda não tenha instalado):
 - **Execute o seguinte comando no terminal para instalar o JSON Server globalmente:
