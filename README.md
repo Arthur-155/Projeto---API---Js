@@ -16,7 +16,8 @@ Projeto desenvolvido durante a Imersão Front-End da Alura. O objetivo principal
 - **Barra Lateral 📌**: Com atalhos para "Início", "Buscar" e "Sua Biblioteca".
 - **Pesquisa de Artistas (Simulada) 🔍**: Campo de entrada para filtrar artistas visualmente.
 
-![image](https://github.com/user-attachments/assets/ea10ff7b-b8ed-4793-ab10-8601a6861ae3)
+![Animação](https://github.com/user-attachments/assets/ecfda7f4-71d1-45fc-a4bd-6f63764b8c00)
+
 
 
 # Link Do Projeto Versão React:
