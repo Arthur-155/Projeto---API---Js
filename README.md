@@ -19,17 +19,24 @@ Projeto desenvolvido durante a Imersão Front-End da Alura. O objetivo principal
 ![Animação](https://github.com/user-attachments/assets/6439bf3f-960a-4600-bacf-856ab7faea23)
 
 ## 🛠️ Como Usar o JSON Server para Visualizar a API
-- Se você quiser ver a API funcionando localmente, siga os passos abaixo:
-- Instale o JSON Server (caso ainda não tenha instalado):
-- Execute o seguinte comando no terminal para instalar o JSON Server globalmente:
-  
-  - **npm install -g json-server**
-    
-Navegue até o diretório do projeto:
-No terminal, vá até o diretório onde o arquivo artists.json está localizado.
-- Inicie o JSON Server: Execute o seguinte comando para iniciar o servidor na porta 3000:
 
-- **json-server --watch api-artists/artists.json --port 3000**
+Se você quiser ver a API funcionando localmente, siga os passos abaixo:
+
+1. Instale o JSON Server (caso ainda não tenha instalado):
+2. Execute o seguinte comando no terminal para instalar o JSON Server globalmente:
+
+   ```sh
+   npm install -g json-server
+   ```
+
+3. Navegue até o diretório do projeto:
+   No terminal, vá até o diretório onde o arquivo `artists.json` está localizado.
+
+4. Inicie o JSON Server: Execute o seguinte comando para iniciar o servidor na porta 3000:
+
+   ```sh
+   json-server --watch api-artists/artists.json --port 3000
+   ```
 
 # Link Do Projeto Versão React:
 [🔗 Acesse o Projeto Aqui](https://transformando-js-react-bvp934fll-arthurs-projects-9de07c44.vercel.app)
