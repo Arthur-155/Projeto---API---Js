@@ -26,5 +26,5 @@ Pesquisa de Artistas (Simulada) 🔍: Campo de entrada para filtrar artistas vis
 
 
 # Link Do Projeto Versão React:
-
+https://transformando-js-react-bvp934fll-arthurs-projects-9de07c44.vercel.app
 
