@@ -22,12 +22,14 @@ Projeto desenvolvido durante a Imersão Front-End da Alura. O objetivo principal
 - Se você quiser ver a API funcionando localmente, siga os passos abaixo:
 - Instale o JSON Server (caso ainda não tenha instalado):
 - Execute o seguinte comando no terminal para instalar o JSON Server globalmente:
-  - npm install -g json-server
+  
+  - **npm install -g json-server**
+    
 Navegue até o diretório do projeto:
 No terminal, vá até o diretório onde o arquivo artists.json está localizado.
-- Inicie o JSON Server:
-Execute o seguinte comando para iniciar o servidor na porta 3000:
-- json-server --watch api-artists/artists.json --port 3000
+- Inicie o JSON Server: Execute o seguinte comando para iniciar o servidor na porta 3000:
+
+- **json-server --watch api-artists/artists.json --port 3000**
 
 # Link Do Projeto Versão React:
 [🔗 Acesse o Projeto Aqui](https://transformando-js-react-bvp934fll-arthurs-projects-9de07c44.vercel.app)
