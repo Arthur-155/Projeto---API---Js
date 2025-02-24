@@ -1,4 +1,4 @@
-## 🎵 Spotify Clone - React Project
+## 🎵 Spotify Clone - React Projectasdasda
 
 Projeto desenvolvido durante a Imersão Front-End da Alura. O objetivo principal era desenvolver um clone do Spotify, focando na construção de uma interface inspirada na plataforma. O projeto inclui uma barra lateral funcional e uma área de busca dinâmica, onde a busca é feita baseada na API que foi cirada.
 
